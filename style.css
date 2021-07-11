@@ -33,3 +33,23 @@
 .shoe{
     background-image: linear-gradient(90deg, rgb(25, 177, 228), blue);
 }
+.categori h1{
+    color: white;
+}
+.categori img{
+    width: 100px;
+}
+.watch, .bag, .shoe{
+    padding: 30px 0px;
+    border-radius: 5px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#subscrib{
+    height: 300px;
+}
+.contact .btn{
+    margin-top: 10px;
+}
