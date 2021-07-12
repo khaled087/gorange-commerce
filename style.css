@@ -47,9 +47,17 @@
     border: none;
     box-shadow: 5px 5px 10px lightgray;
 }
-#subscrib{
+#subscribe{
     height: 300px;
 }
 .contact .btn{
     margin-top: 10px;
+}
+.contact h6{
+    color: lightslategray;
+}
+.footer p{
+    text-align: center;
+    margin-bottom: 25px;
+    color: lightslategray;
 }
